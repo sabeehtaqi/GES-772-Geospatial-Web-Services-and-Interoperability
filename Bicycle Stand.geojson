@@ -1,4 +1,4 @@
-var bicycleRental = {
+
     "type": "FeatureCollection",
     "features": [
         {
@@ -100,5 +100,5 @@ var bicycleRental = {
             "id": 74
         }
     ]
-};
+
 
